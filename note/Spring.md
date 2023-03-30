@@ -136,7 +136,7 @@ public class SimpleBean {
 
 整个继承体系如下:
 
-![ResourceLoader继承体系](images/ResourceLoader.jpg)
+![ResourceLoader继承体系](./images/ResourceLoader.jpg)
 
 ResourceLoader代表了**加载资源的一种方式，正是策略模式的实现**。
 
